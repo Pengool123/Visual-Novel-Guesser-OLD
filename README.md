@@ -1,3 +1,7 @@
+# NOTICE
+this this old and dead, taken out back and shot
+[Here is the not bad one](https://github.com/Pengool123/Visual-Novel-Guesser)
+
 # Visual-Novel-Guesser
 Guess the visual novel based on hints
 
